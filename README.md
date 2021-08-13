@@ -1,5 +1,5 @@
 # github-announcer
-Announces new member repositories in an IRC channel
+Announces new member repositories in an RSS-feed-file
 
 
 # token
